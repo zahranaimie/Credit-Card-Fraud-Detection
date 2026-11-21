@@ -1,0 +1,5 @@
+{
+    "model": "Random Forest",
+    "threshold": 0.5,
+    "scaling": "StandardScaler"
+}

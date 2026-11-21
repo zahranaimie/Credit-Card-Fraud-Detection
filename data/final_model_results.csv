@@ -1,0 +1,5 @@
+Model,Precision,Recall,F1-Score,PR-AUC
+Random Forest,0.9722,0.7368,0.8383,0.7896
+Logistic Regression,0.8462,0.5789,0.6875,0.692
+RF + SMOTE,0.5532,0.8211,0.661,0.7763
+LR + SMOTE,0.053,0.8737,0.1,0.675
