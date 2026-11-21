@@ -35,6 +35,16 @@ The target variable represents:
 
 The dataset is highly imbalanced, with fraudulent transactions representing a very small proportion of all transactions.
 
+## Dataset Download
+
+The dataset is not included in this repository due to its file size.
+
+You can download the original dataset from Kaggle:
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` inside the `data/` directory.
+
 ## Project Workflow
 
 The project follows these main steps:
